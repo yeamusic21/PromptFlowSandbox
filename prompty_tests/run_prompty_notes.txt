@@ -1,0 +1,4 @@
+set OPENAI_API_KEY=<my-api-key>
+set OPENAI_BASE_URL=https://api.openai.com/v1
+pf flow test --flow prompt_tests/test.prompty
+pf service stop

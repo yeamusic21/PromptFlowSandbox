@@ -1,0 +1,26 @@
+CREATE VENV
+-------------------------
+C:\Users\LocationFor\Python312\python -m venv PrmptFlPyVenv
+C:\Users\yeaya\AppData\Local\Programs\Python\Python310\python -m venv PrmptFlPyVenv
+
+PYTHON VERSION
+-------------------------
+Python 3.10.?
+
+INITIALIZE VENV 
+-------------------------
+cd PrmptFlPyVenv
+.\scripts\activate
+cd ..
+
+PIP INSTALLS
+-------------------------
+pip install promptflow
+pip install promptflow-tools
+pip install promptflow-tracing
+pip install python-dotenv
+pip install langchain
+pip install langchain_openai
+pip install opentelemetry-instrumentation-langchain
+
+
