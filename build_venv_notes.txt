@@ -1,7 +1,6 @@
 CREATE VENV
 -------------------------
 C:\Users\LocationFor\Python312\python -m venv PrmptFlPyVenv
-C:\Users\yeaya\AppData\Local\Programs\Python\Python310\python -m venv PrmptFlPyVenv
 
 PYTHON VERSION
 -------------------------
