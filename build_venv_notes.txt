@@ -4,7 +4,7 @@ C:\Users\LocationFor\Python312\python -m venv PrmptFlPyVenv
 
 PYTHON VERSION
 -------------------------
-Python 3.10.?
+Python 3.12.?
 
 INITIALIZE VENV 
 -------------------------
